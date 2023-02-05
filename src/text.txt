@@ -1,0 +1,8 @@
+const newItem={
+  id:Date.now()
+  firstName:firstName
+  lastName:lastName
+  phone:phone
+  adress:adress
+  gender:
+}
